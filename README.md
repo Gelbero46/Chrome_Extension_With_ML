@@ -1,0 +1,1 @@
+# This Chrome Extension scraps text/article from a website, uses a ML model to analyse and check the veracity of the text. The Machine Learning Code is written in python and must be hosted on a server either local or online. If it is hosted online change the url in the background.js file to the hosted url. Thanks
